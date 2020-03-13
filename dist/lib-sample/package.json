@@ -1,0 +1,21 @@
+{
+  "name": "lib-sample",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "main": "bundles/lib-sample.umd.js",
+  "module": "fesm5/lib-sample.js",
+  "es2015": "fesm2015/lib-sample.js",
+  "esm5": "esm5/lib-sample.js",
+  "esm2015": "esm2015/lib-sample.js",
+  "fesm5": "fesm5/lib-sample.js",
+  "fesm2015": "fesm2015/lib-sample.js",
+  "typings": "lib-sample.d.ts",
+  "metadata": "lib-sample.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

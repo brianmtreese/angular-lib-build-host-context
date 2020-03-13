@@ -17,6 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "lib-sample": [
+        "dist/lib-sample",
+        "projects/lib-sample/src/public-api.ts"
+      ],
+      "lib-sample/*": [
+        "dist/lib-sample/*"
+      ]
+    }
   }
 }

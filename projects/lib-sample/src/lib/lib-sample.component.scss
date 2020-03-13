@@ -1,0 +1,13 @@
+:host-context(.test-class-01 .test-class-02) {
+
+    &.test-class-03 {
+      color: red;
+    }
+  
+  }
+  
+  pre {
+    padding: 1em;
+    margin: 0;
+    border: solid 2px red;
+  }
