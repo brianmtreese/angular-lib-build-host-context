@@ -1,5 +1,5 @@
 {
-  "name": "agular-lib-host-context",
+  "name": "angular-lib-host-context",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
